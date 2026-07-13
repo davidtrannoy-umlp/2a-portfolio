@@ -1,0 +1,51 @@
+site_name: Mon Portfolio Pro - BUT Info-Com 2A
+site_description: Support de classe inversée pour la réalisation du portfolio professionnel WordPress + Elementor
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode sombre
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode clair
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+  - tables
+
+nav:
+  - Accueil: index.md
+  - Phase 1 - Conception:
+      - Vue d'ensemble: 01-conception/index.md
+      - Cadrage & méthodologie de projet: 01-conception/cadrage-methodologie.md
+      - Architecture & contenu: 01-conception/architecture-contenu.md
+      - Identité visuelle: 01-conception/identite-visuelle.md
+  - Phase 2 - Rédaction:
+      - Vue d'ensemble: 02-redaction/index.md
+      - Écriture éditoriale & SEO on-page: 02-redaction/ecriture-editoriale-seo.md
+      - Légal & traitement des visuels: 02-redaction/legal-visuels.md
+  - Phase 3 - Réalisation:
+      - Vue d'ensemble: 03-realisation/index.md
+      - Intégration Elementor: 03-realisation/integration-elementor.md
+      - Pages complémentaires & contact: 03-realisation/pages-complementaires-contact.md
+      - Responsive & performance: 03-realisation/responsive-performance.md
+      - Revue par les pairs: 03-realisation/revue-pairs.md
+  - Clôture: 04-cloture/index.md
+  - Ressources: ressources/index.md
