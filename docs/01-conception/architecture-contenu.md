@@ -21,5 +21,8 @@ Listez toutes les réalisations mobilisables : projets de 1A et 2A (prévoir de 
 
 Avant Elementor, esquissez la structure de vos pages clés (particulièrement la page d'accueil et le template projet). L'objectif : valider l'organisation du contenu avant de se soucier du visuel.
 
+![Exemple de wireframe basse-définition](../assets/wireframe-1.png)
+
 !!! note "Livrable de cette étape"
     Une arborescence de site + un wireframe basse-définition de la page d'accueil et du template projet.
+
