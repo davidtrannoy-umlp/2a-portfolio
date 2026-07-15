@@ -1,0 +1,9 @@
+/* Feuille de style personnalisée du site.
+   Ajoutez vos propres règles CSS ici — elles s'appliquent
+   par-dessus le thème Material par défaut. */
+
+/* Taille de police de base du corps de texte : +2pt par rapport
+   à la valeur par défaut du thème Material. */
+:root {
+  --md-typeset-font-size: calc(0.8rem + 2pt);
+}
