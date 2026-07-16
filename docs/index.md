@@ -17,9 +17,6 @@ Ce semestre, on va plus loin : vous allez concevoir, rédiger et réaliser un vr
 - Produire un site conforme aux exigences d'un site professionnel public (contenu, légal, technique)
 - Disposer, en fin de semestre, d'un portfolio en ligne réellement exploitable
 
-!!! tip "Ce site est votre feuille de route"
-    Consultez la page correspondante **avant chaque séance de TP** : le temps en présentiel sera consacré à la pratique, pas à la découverte des notions.
-
 ## Méthodologie : trois phases
 
 Ce projet se déroule en mode projet, sur trois phases :
