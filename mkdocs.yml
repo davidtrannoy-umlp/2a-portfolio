@@ -10,7 +10,7 @@ theme:
         icon: material/weather-sunny
         name: Passer en mode clair
     - scheme: default
-      primary: indigo
+      primary: cyan
       toggle:
         icon: material/weather-night
         name: Passer en mode sombre
