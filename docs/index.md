@@ -3,12 +3,12 @@
 Bienvenue sur le support de votre projet du semestre : la réalisation de votre portfolio professionnel, sous WordPress et Elementor, sur votre propre nom de domaine.
 
 Vous avez découvert WordPress et Elementor en 1ère année. 
-Ce semestre, on va plus loin : vous allez concevoir, rédiger et réaliser un vrai site, pensé pour vous représenter professionnellement — stage, alternance, premier emploi.
+Ce semestre, on va plus loin : vous allez concevoir, rédiger et réaliser un vrai site, pensé pour vous représenter professionnellement — stage, alternance, poursuite d'études, premier emploi.
 
 ## Objectifs du cours
 
 - Consolider vos compétences WordPress/Elementor sur un projet réel et personnel
-- Apprendre à mener un projet web en mode projet, de la conception à la mise en ligne
+- Apprendre à mener un projet web, de la conception à la mise en ligne
 - Produire un site conforme aux exigences d'un site professionnel public (contenu, légal, technique)
 - Disposer, en fin de semestre, d'un portfolio en ligne réellement exploitable
 
@@ -20,7 +20,7 @@ Ce semestre, on va plus loin : vous allez concevoir, rédiger et réaliser un vr
 Ce projet se déroule en mode projet, sur trois phases :
 
 1. **[Conception](01-conception/index.md)** — cadrage, contenu, identité visuelle
-2. **[Rédaction](02-redaction/index.md)** — textes, SEO, aspect légal, visuels
+2. **[Maquette & rédaction](02-maquette-redaction/index.md)** — maquette de l'accueil, textes, SEO, aspect légal, visuels
 3. **[Réalisation](03-realisation/index.md)** — intégration Elementor, tests, finitions
 
 Le projet se termine par une [phase de clôture](04-cloture/index.md) et le dépôt de votre site pour correction. Les critères d'évaluation et liens utiles sont regroupés dans [Ressources](ressources/index.md).

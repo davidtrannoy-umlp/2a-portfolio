@@ -1,10 +1,12 @@
 # Revue par les pairs
 
-Avant de considérer votre site terminé, un regard extérieur est précieux : on ne voit plus les défauts d'un site qu'on a le nez dedans depuis des semaines.
+Avant de considérer votre site terminé, un regard extérieur est précieux : on ne voit plus les défauts d'un site sur lequel on travaille depuis des semaines.
 
+!!! danger "Attention !"
+    Votre site doit en grande partie être terminé le 05/12/26, de manière à ce que votre binôme puisse le tester correctement.
 ## Organisation de la revue croisée
 
-En binôme (défini en séance), échangez l'URL de votre site avec un·e camarade. Chacun teste le site de l'autre en conditions réelles : navigation complète, formulaire de contact, affichage mobile.
+En binôme, échangez l'URL de votre site avec un·e camarade. Chacun teste le site de l'autre en conditions réelles : navigation complète, formulaire de contact, affichage mobile.
 
 ## Grille de test
 
@@ -23,5 +25,5 @@ Pour chaque site testé, notez vos retours sur :
 
 À partir des retours reçus, listez les corrections à apporter par ordre de priorité, et corrigez avant la séance de clôture.
 
-!!! note "Livrable de cette étape"
+!!! note "Livrable de cette étape 05/12/26"
     Une grille de retours complétée pour le site d'un·e camarade, et une liste de corrections priorisées pour votre propre site.

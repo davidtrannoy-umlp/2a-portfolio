@@ -8,13 +8,17 @@ Elementor permet de prévisualiser et d'ajuster l'affichage par taille d'écran 
 - ajustez les tailles de police et les marges si nécessaire par breakpoint
 - testez la navigation (menu, boutons) au doigt, pas qu'à la souris
 
+## Menu responsive
+La version responsive du menu Elementor étant plus que perfectible, utilisez l'extension "Responsive menu" pour générer un menu optimisé pour mobile.
+
+
 ## Performance
 
 Un site lent perd des visiteurs avant même d'être vu. Quelques réflexes :
 
 - vérifiez le poids de vos images (déjà compressées en phase de rédaction, mais recontrôlez après intégration)
 - limitez le nombre de plugins actifs au strict nécessaire
-- testez votre site avec un outil comme PageSpeed Insights et notez les points d'amélioration prioritaires
+- Pour allez plus loin : testez votre site avec un outil comme PageSpeed Insights et notez les points d'amélioration prioritaires
 
 !!! tip "Ne visez pas la perfection"
     Un score de performance parfait n'est pas l'objectif. Repérez surtout les éléments qui ralentissent nettement le chargement (images trop lourdes en général).

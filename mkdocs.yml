@@ -1,5 +1,6 @@
 site_name: Portfolio Pro - BUT Info-Com 2A
 site_description: Support pour la réalisation du portfolio professionnel WordPress + Elementor
+copyright: © 2026 David Trannoy — IUT Info-Com
 theme:
   name: material
   language: fr
@@ -29,6 +30,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - toc:
       permalink: true
   - tables
@@ -37,13 +40,13 @@ nav:
   - Accueil: index.md
   - Phase 1 - Conception:
       - Vue d'ensemble: 01-conception/index.md
-      - Cadrage & méthodologie de projet: 01-conception/cadrage-methodologie.md
-      - Architecture & contenu: 01-conception/architecture-contenu.md
+      - Cadrage & contenus: 01-conception/cadrage-contenus.md
       - Identité visuelle: 01-conception/identite-visuelle.md
-  - Phase 2 - Rédaction:
-      - Vue d'ensemble: 02-redaction/index.md
-      - Écriture éditoriale & SEO on-page: 02-redaction/ecriture-editoriale-seo.md
-      - Légal & traitement des visuels: 02-redaction/legal-visuels.md
+  - Phase 2 - Maquette & rédaction:
+      - Vue d'ensemble: 02-maquette-redaction/index.md
+      - Maquette de la page d'accueil: 02-maquette-redaction/maquette.md
+      - Écriture éditoriale & SEO on-page: 02-maquette-redaction/ecriture-editoriale-seo.md
+      - Légal & traitement des visuels: 02-maquette-redaction/legal-visuels.md
   - Phase 3 - Réalisation:
       - Vue d'ensemble: 03-realisation/index.md
       - Intégration Elementor: 03-realisation/integration-elementor.md

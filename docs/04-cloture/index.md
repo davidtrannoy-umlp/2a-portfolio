@@ -22,7 +22,8 @@ Avant de considérer votre site terminé, vérifiez point par point :
 
 ## Dépôt du site
 
-Déposez l'URL finale de votre portfolio selon les modalités communiquées en séance. Votre site sera évalué sur pièces, à partir d'une grille de critères (voir [Ressources](../ressources/index.md)).
+!!! note "Livrable pour cette étape 20/12/2026"
+	Déposez l'URL finale de votre portfolio sur le fichier partagé : <a href="https://docs.google.com/spreadsheets/d/1t8sw5fu80yqcBvydKYVot9Zow8MBYpuIxZr2S23Rrkk/edit?gid=0#gid=0" target="_blank" rel="noopener">tableur de suivi</a>
 
 ## Bilan
 

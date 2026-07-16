@@ -1,9 +1,10 @@
-# Phase 2 — Rédaction
+# Phase 2 — Maquette & rédaction
 
-Le contenu est cadré, l'identité visuelle est fixée. Avant de toucher à Elementor, on écrit — car un bon portfolio se construit d'abord avec des mots, pas avec des blocs.
+Le contenu et l'identité visuelle sont cadré. Avant de toucher à Elementor, on va maquetter la page d'accueil et rédiger les contenus — car un bon portfolio se construit d'abord avec des mots, pas avec des blocs.
 
 À l'issue de cette phase, vous devez avoir :
 
+- une maquette de page d'accueil prête à être réalisée
 - les **textes définitifs** de chaque page (accueil, projets, à propos...)
 - une vigilance acquise sur le **cadre légal** (RGPD, mentions légales, droits d'image)
 - vos **visuels sélectionnés et prêts à l'emploi** (droits vérifiés, formats optimisés)
@@ -13,5 +14,6 @@ Le contenu est cadré, l'identité visuelle est fixée. Avant de toucher à Elem
 
 **Pages de cette phase :**
 
+- [Maquette de page d'accueil](maquette.md)
 - [Écriture éditoriale & SEO on-page](ecriture-editoriale-seo.md)
 - [Légal & traitement des visuels](legal-visuels.md)

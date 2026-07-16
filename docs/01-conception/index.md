@@ -11,6 +11,9 @@ Cette première phase pose les fondations de votre portfolio, avant toute mise e
 
 **Pages de cette phase :**
 
-- [Cadrage & méthodologie de projet](cadrage-methodologie.md)
-- [Architecture & contenu](architecture-contenu.md)
+- [Cadrage & contenus](cadrage-contenus.md)
 - [Identité visuelle](identite-visuelle.md)
+
+!!! note "2 livrables pour cette étape"
+    - Brief avec benchmark, arborescence et mots-clés principaux (20/09/26)
+    - Moodboard + wireframe (11/10/26)

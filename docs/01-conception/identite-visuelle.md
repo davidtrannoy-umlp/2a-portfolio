@@ -1,26 +1,31 @@
 # Identité visuelle
 
-Le contenu est structuré, place à la direction artistique. C'est elle qui donnera au visiteur une première impression cohérente avec votre positionnement.
+Une fois le contenu structuré : place à la direction artistique. C'est elle qui donnera au visiteur une première impression cohérente avec votre positionnement.
 
 ## Moodboard
 
-Rassemblez des références visuelles (couleurs, typographies, mises en page, ambiances) qui correspondent au message que vous voulez faire passer. Un moodboard n'est pas décoratif : chaque référence doit être justifiable ("ce bleu inspire la rigueur", "cette typo evoque le digital").
+Rassemblez des références visuelles (couleurs, typographies, mises en page, ambiances) qui correspondent au message que vous voulez faire passer. Un moodboard n'est pas décoratif : chaque référence doit être justifiable ("ce bleu inspire la rigueur", "cette typo evoque le digital", etc).
 
-## Choix du thème Elementor
-
-Sur la base du wireframe réalisé précédemment, identifiez un thème (ou un starter kit / Hello Elementor + blocs Elementor) adapté à une structure de portfolio one-page ou multi-pages, responsive par défaut.
-
-!!! tip "Restez simple"
-    Un thème trop chargé en fonctionnalités inutilisées ralentit le site et complique la prise en main. Préférez un thème léger que vous maîtrisez.
-
+N'hésitez pas à élargir les sources d'inspirations avec des sites web, CV, affiches, liens Behance, tableau Pinterest. Attention toutefois, à ne pas tomber dans un moodboard type décorateur d’intérieur, vlog ou autres assez répandus sur ces plateformes.
 ## Palette & typographie
 
-Fixez avant de commencer l'intégration :
+A définir avant de commencer l'intégration :
 
 - 1 couleur principale, 1 couleur secondaire, 1 couleur d'accent
+- des déclinaisons plus claires et plus foncées de vos couleurs pour les effets de survol, des arrière-plans, des mises en valeur ou minimisation de l'importance
 - 1 police pour les titres, 1 police pour le texte courant (2 maximum)
 
 Cette cohérence graphique doit être appliquée à **toutes** les pages du site, sans exception.
+## Wireframe
 
-!!! note "Livrable de cette étape"
-    Un moodboard (image unique ou planche), le thème/starter kit choisi, et une palette + typographies figées.
+Avant la réalisation de la maquette, esquissez la structure de vos pages clés (particulièrement la page d'accueil et une page "modèle" pour vos projets). L'objectif : valider l'organisation du contenu avant de se soucier du visuel.
+
+*Exemple:* 
+![Exemple de wireframe basse-définition](../assets/wireframe-1.png)
+
+
+
+
+!!! note "Livrable de cette étape 11/10/2026"
+    Un moodboard, une palette + typographies, et un wireframe de la page d'accueil et de la page "projet".
+    Avec une vraie justification de vos différents choix.

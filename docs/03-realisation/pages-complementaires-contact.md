@@ -10,7 +10,7 @@ Intégrez un bouton de téléchargement de votre CV (format PDF), idéalement vi
 
 ## Formulaire de contact
 
-Mettez en place un formulaire de contact simple (nom, email, message) avec un plugin adapté (WPForms, Contact Form 7...). Pensez à :
+Mettez en place un formulaire de contact simple (nom, email, message) avec un plugin adapté (WPForms +Wp Mail SMTP). Pensez à :
 
 - tester l'envoi réel du formulaire avant de considérer la page terminée
 - ajouter la mention RGPD définie en phase de rédaction juste à côté du formulaire
