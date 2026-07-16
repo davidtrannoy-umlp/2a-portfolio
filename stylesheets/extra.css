@@ -1,0 +1,27 @@
+/* Feuille de style personnalisée du site.
+   Ajoutez vos propres règles CSS ici — elles s'appliquent
+   par-dessus le thème Material par défaut. */
+
+/* Taille de police de base du corps de texte : +2pt par rapport
+   à la valeur par défaut du thème Material. */
+
+.md-typeset h1 { color: #47e9ff;}
+.md-typeset h2 { color: var(--md-primary-fg-color);}
+.md-typeset h3 { color: var(--md-primary-fg-color);}
+
+.md-typeset {
+  font-size: 0.9rem;
+}
+.md-typeset .admonition,
+.md-typeset table:not([class]) {
+  font-size: 0.85rem;
+}
+.md-typeset p {
+  text-align: justify;
+}
+/* Tableaux en pleine largeur (par défaut Material les limite à leur contenu) */
+.md-typeset__table { width: 100%; }
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+}
