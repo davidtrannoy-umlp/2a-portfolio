@@ -1,6 +1,8 @@
 site_name: Portfolio Pro - BUT Info-Com 2A
 site_description: Support pour la réalisation du portfolio professionnel WordPress + Elementor
 copyright: © 2026 David Trannoy — IUT Info-Com
+extra:
+  generator: false
 theme:
   name: material
   language: fr
