@@ -15,5 +15,6 @@ Cette première phase pose les fondations de votre portfolio, avant toute mise e
 - [Identité visuelle](identite-visuelle.md)
 
 !!! note "2 livrables pour cette étape"
-    - Brief avec benchmark, arborescence et mots-clés principaux (20/09/26)
-    - Moodboard + wireframe (11/10/26)
+    - Google docs partagé avec : Brief, benchmark, arborescence et mots-clés principaux (20/09/26)
+    - Google docs partagé avec : Moodboard + wireframe (11/10/26)
+    - <a href="https://docs.google.com/spreadsheets/d/1t8sw5fu80yqcBvydKYVot9Zow8MBYpuIxZr2S23Rrkk/edit?gid=0#gid=0" target="_blank" rel="noopener">Lien vers le tableur de suivi</a>

@@ -45,10 +45,12 @@ Listez toutes les réalisations mobilisables : projets de 1A et 2A (prévoir de 
 
 À partir de cet inventaire, définissez les pages de votre futur site (accueil, page(s) projet, à propos, contact...) et leur articulation. Une arborescence simple et lisible vaut toujours mieux qu'une navigation à tiroirs.
 
-!!! note "Livrable de cette étape - 20/09/26"
-    Un brief avec : 
+!!! note "Livrable de cette étape - 20/09/26"    
+    Un brief dans un Google Docs partagé avec : 
     
     - objectif du portfolio, cible(s),
     - 3 mots clés qui vous définissent (détaillez),
     - 3 références inspirantes avec leurs qualités et défauts,
     - l'arborescence de votre site
+    
+    <a href="https://docs.google.com/spreadsheets/d/1t8sw5fu80yqcBvydKYVot9Zow8MBYpuIxZr2S23Rrkk/edit?gid=0#gid=0" target="_blank" rel="noopener">Lien vers le tableur de suivi</a>

@@ -24,9 +24,10 @@ N'hésitez pas à prendre de l'avance lors des étapes que vous maitrisez de man
 !!! danger "Usage de l'intelligence artificielle : ce qui est interdit"
     L'utilisation d'outils d'IA générative est **interdite** pour :
 
-    - la génération du **wireframe**
-    - la génération de l'**arborescence** du site
     - la rédaction du **document de brief**
+    - la génération de l'**arborescence** du site
+    - la génération du **wireframe**
+    - la génération de votre maquette
 
     Ces étapes doivent refléter votre propre réflexion de conception — c'est tout l'objet de la phase de conception.
 

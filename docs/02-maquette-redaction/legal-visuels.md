@@ -31,5 +31,5 @@ Une fois les droits vérifiés :
 - compressez vos images (poids réduit = site plus rapide)
 - renommez les fichiers de façon explicite (utile pour le SEO et pour vous y retrouver)
 
-!!! note "Livrable de cette étape"
+!!! note "Pour vous, à cette étape, générez : "
     Une page "Mentions légales" rédigée, une mention RGPD prête pour le formulaire de contact, et un dossier d'images sélectionnées, compressées et renommées.

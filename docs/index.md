@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Portfolio pro, avec WordPress & Elementor
 
 Bienvenue sur le support de votre projet du semestre : la réalisation de votre portfolio professionnel, sous WordPress et Elementor, sur votre propre nom de domaine.
@@ -23,7 +28,7 @@ Ce projet se déroule en mode projet, sur trois phases :
 2. **[Maquette & rédaction](02-maquette-redaction/index.md)** — maquette de l'accueil, textes, SEO, aspect légal, visuels
 3. **[Réalisation](03-realisation/index.md)** — intégration Elementor, tests, finitions
 
-Le projet se termine par une [phase de clôture](04-cloture/index.md) et le dépôt de votre site pour correction. Les critères d'évaluation et liens utiles sont regroupés dans [Ressources](ressources/index.md).
+Le projet se termine par une [phase de clôture](04-cloture/index.md) et le dépôt de votre site pour correction.
 
 !!! warning "WordPress + Elementor uniquement"
-    Aucun autre outil de génération de site (Wix, Webflow, générateur IA de site clé en main...) n'est accepté pour ce projet. L'objectif est de continuer à monter en compétences sur WordPress et Elementor.
+    Aucun autre outil de génération de site (Wix, Webflow, générateur IA de site clé en main...) n'est accepté pour ce projet. L'objectif n'est pas seulement de réaliser votre portfolio, mais également de continuer à monter en compétences sur WordPress et Elementor.

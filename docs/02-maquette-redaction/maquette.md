@@ -11,7 +11,8 @@ Passer directement du wireframe à Elementor pousse à faire des choix graphique
 - Reprenez le wireframe basse-définition de la page d'accueil réalisé en phase de conception
 - Appliquez votre palette de couleurs et vos typographies
 - Ne travaillez que la page d'accueil à ce stade : les autres pages suivront le même système une fois celui-ci validé
-- Outil libre (Figma, Canva, PowerPoint/Keynote...), du moment que le rendu est lisible et fidèle à vos intentions
+- Outil libre (Figma, Canva, etc) ou de PAO (Illustrator, Photoshop...), du moment que le rendu est lisible et fidèle à vos intentions, et exporter dans un format générique (pdf, jpg ou png).
+
 
 !!! tip "Ce que doit montrer la maquette"
     - une hiérarchie visuelle claire (qu'est-ce qu'on regarde en premier ?)
@@ -24,3 +25,4 @@ Passer directement du wireframe à Elementor pousse à faire des choix graphique
 
 !!! note "Livrable de cette étape (18/10/2026)"
     Une maquette haute-fidélité de la page d'accueil, prête à être intégrée dans Elementor.
+	<a href="https://docs.google.com/spreadsheets/d/1t8sw5fu80yqcBvydKYVot9Zow8MBYpuIxZr2S23Rrkk/edit?gid=0#gid=0" target="_blank" rel="noopener">Lien vers le tableur de suivi</a>

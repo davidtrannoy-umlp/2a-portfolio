@@ -28,4 +28,6 @@ Avant la réalisation de la maquette, esquissez la structure de vos pages clés 
 
 !!! note "Livrable de cette étape 11/10/2026"
     Un moodboard, une palette + typographies, et un wireframe de la page d'accueil et de la page "projet".
-    Avec une vraie justification de vos différents choix.
+        Avec une vraie justification de vos différents choix.
+        
+    <a href="https://docs.google.com/spreadsheets/d/1t8sw5fu80yqcBvydKYVot9Zow8MBYpuIxZr2S23Rrkk/edit?gid=0#gid=0" target="_blank" rel="noopener">Lien vers le tableur de suivi</a>
