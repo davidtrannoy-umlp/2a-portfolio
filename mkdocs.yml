@@ -1,5 +1,5 @@
-site_name: Mon Portfolio Pro - BUT Info-Com 2A
-site_description: Support de classe inversée pour la réalisation du portfolio professionnel WordPress + Elementor
+site_name: Portfolio Pro - BUT Info-Com 2A
+site_description: Support pour la réalisation du portfolio professionnel WordPress + Elementor
 theme:
   name: material
   language: fr
