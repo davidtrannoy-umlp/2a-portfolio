@@ -2,7 +2,7 @@
 
 ## Tableur de partage
 
-[Ouvrir le tableur de partage](https://docs.google.com/spreadsheets/d/1t8sw5fu80yqcBvydKYVot9Zow8MBYpuIxZr2S23Rrkk/edit?gid=0#gid=0)
+<a href="https://docs.google.com/spreadsheets/d/1t8sw5fu80yqcBvydKYVot9Zow8MBYpuIxZr2S23Rrkk/edit?gid=0#gid=0" target="_blank" rel="noopener">Ouvrir le tableur de partage</a>
 
 ## Usage de l'IA
 
